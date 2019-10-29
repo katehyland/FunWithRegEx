@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{35F47514-37B2-42A8-BD46-6C4210762EBA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReggieExpresso/Program.cs">
+    <Files>
+      <File FileName="ReggieExpresso/Program.cs" Line="13" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReggieExpresso" expanded="True">
+            <Node name="ReggieExpresso" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReggieExpresso PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

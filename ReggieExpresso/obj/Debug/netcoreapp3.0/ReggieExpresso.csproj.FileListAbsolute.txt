@@ -1,0 +1,11 @@
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/bin/Debug/netcoreapp3.0/ReggieExpresso
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/bin/Debug/netcoreapp3.0/ReggieExpresso.deps.json
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/bin/Debug/netcoreapp3.0/ReggieExpresso.runtimeconfig.json
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/bin/Debug/netcoreapp3.0/ReggieExpresso.runtimeconfig.dev.json
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/bin/Debug/netcoreapp3.0/ReggieExpresso.dll
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/bin/Debug/netcoreapp3.0/ReggieExpresso.pdb
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/obj/Debug/netcoreapp3.0/ReggieExpresso.csprojAssemblyReference.cache
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/obj/Debug/netcoreapp3.0/ReggieExpresso.AssemblyInfoInputs.cache
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/obj/Debug/netcoreapp3.0/ReggieExpresso.AssemblyInfo.cs
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/obj/Debug/netcoreapp3.0/ReggieExpresso.dll
+/Users/khyland/Documents/GrandCircusProjects/ReggieExpresso/ReggieExpresso/obj/Debug/netcoreapp3.0/ReggieExpresso.pdb
